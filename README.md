@@ -42,9 +42,7 @@
 
 ## Drivers
 
-### WiFi & Bluetooth
-[Download](https://catalog.s.download.windowsupdate.com/d/msdownload/update/driver/drvs/2018/01/7080faf1-49a2-4824-9efe-5bb1e861a6d3_a53ce31521064547847ccbd18243fbed75e79280.cab)
-
+### WiFi & Bluetooth - [Download](https://catalog.s.download.windowsupdate.com/d/msdownload/update/driver/drvs/2018/01/7080faf1-49a2-4824-9efe-5bb1e861a6d3_a53ce31521064547847ccbd18243fbed75e79280.cab)
 <details>
 <summary>Details</summary>
 <br>
@@ -56,8 +54,7 @@
     *   **SHA256 Checksum:** `ZnBa6Gihg+XfWxNmdHSGKnRcCdvivc1dh6u6j9N7+as=`
 </details>
 
-### Intel Platform Package Driver
-[Download](https://download.lenovo.com/consumer/mobiles/4rm4029f.exe)
+### Intel Platform Package Driver - [Download](https://download.lenovo.com/consumer/mobiles/4rm4029f.exe)
 
 <details>
 <summary>Details</summary>
@@ -84,8 +81,7 @@
         *   WCE
 </details>
 
-### Intel Trusted Execution Engine Interface Driver
-[Download](https://download.lenovo.com/consumer/mobiles/4rmt019f.exe)
+### Intel Trusted Execution Engine Interface Driver - [Download](https://download.lenovo.com/consumer/mobiles/4rmt019f.exe)
 
 <details>
 <summary>Details</summary>
