@@ -1,11 +1,18 @@
-# Lenovo MIIX 3-1030 (Type 80HV)
-
-<p align="left">
-  <img src="https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,pr_2015_9_29_13_53_38_707.jpg" width="350" title="front">
-  <img src="https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,pr_2015_9_29_13_53_46_884.jpg" width="350" alt="back">
-</p>
+# <img src="https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,pr_2015_9_29_13_54_10_386.jpg" height="100" alt="With keyboard"> <img src="https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,pr_2015_9_29_13_53_38_707.jpg" height="100" alt="Front tablet view"> Lenovo MIIX 3-1030 (Type 80HV)
 
 ## Device Overview
+<details>
+<summary>Product images</summary>
+<p align="left">
+  <img src="https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,pr_2015_9_22_11_32_48_373.jpg" width="250" title="front">
+  <img src="https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,pr_2015_9_29_13_54_50_875.jpg" width="250" alt="back">
+  <img src="https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,pr_2015_9_16_11_19_30_794.jpg" width="250" alt="back">
+  <img src="https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,pr_2015_9_29_13_54_17_903.jpg" width="250" alt="back">
+  <img src="https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,pr_2015_9_29_13_53_38_707.jpg" width="250" alt="back">
+  <img src="https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,pr_2015_9_29_13_53_46_884.jpg" width="250" alt="back">
+  <img src="https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,pr_2015_9_29_13_54_10_386.jpg" width="250" alt="back">
+</p>
+</details>
 
 <details>
 <summary>Specifications</summary>
@@ -29,8 +36,9 @@
 | **Weight**          | 0.459kg / 1.21 lbs                   |                                                                                    |
 | **Case**            | Black                                | Plastic                                                                            |
 | **Preloaded OS**    | Windows 8.1 with Bing (32-bit)       | SHAREit, Microsoft Office (1-year subscription)                                    |
-
 </details>
+
+
 
 ## Drivers
 
@@ -81,12 +89,12 @@
 
 <details>
 <summary>Details</summary>
-<br>
-
+  
 *   **Intel Trusted Execution Engine Interface Driver for 32-bit Windows**
     *   **Version:** 1.0.0.1064
     *   **Date:** November 11th 2014
     *   **SHA256 Checksum:** `8611d9437275c94cb6183a2ad7ba02b0dd0b661e4ce1230e541e1a5aed138767`
 
-    The Intel Trusted Execution Engine (TXE) provides a secure and isolated environment for security-related tasks.
+    The Intel Trusted Execution Engine (TXE) is a hardware and firmware subsystem that sits within many Intel chipsets (including the one used in the Lenovo Miix 3 1030). It provides a secure and isolated environment for performing security-related tasks. Dedicated to security
+
 </details>
