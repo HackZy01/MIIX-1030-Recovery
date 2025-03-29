@@ -1,4 +1,4 @@
-# MIIX 1030 Drivers
+# Miix 3-1030
 
 ## Why?
 Windows 10 runs poorly, drivers on the lenovo website barely work for 8.1
