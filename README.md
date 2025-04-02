@@ -1,4 +1,6 @@
-# <img src="https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,pr_2015_9_29_13_54_10_386.jpg" height="100" alt="With keyboard"> <img src="https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,pr_2015_9_29_13_53_38_707.jpg" height="100" alt="Front tablet view"> Lenovo MIIX 3-1030 (Type 80HV)
+### <img src="https://github.com/user-attachments/assets/858933c2-d361-4c34-a661-abdb3874992f" height="200" alt="With keyboard"> <img src="https://github.com/user-attachments/assets/e23b0637-d91a-4f19-a89f-a3c4944defd5" height="200" alt="Front tablet view"> 
+# Lenovo MIIX 3-1030 (Type 80HV)
+
 
 ## Device Overview
 <details>
